@@ -16,3 +16,5 @@ class Solution {
         return(tri);
     }
 }
+
+// O(n^2), n = numRows
