@@ -12,3 +12,5 @@ class Solution {
         return time;
     }
 }
+
+// O(n), n = number of points
