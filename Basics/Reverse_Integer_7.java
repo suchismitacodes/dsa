@@ -16,3 +16,4 @@ class Solution {
         return rev;
     }
 }
+// O(d), d = number of digits in x
